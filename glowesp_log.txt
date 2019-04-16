@@ -1,0 +1,239 @@
+# Start 2019-04-10 | Starttime 18:22:39 # End 2019-04-10 | Endtime 18:22:42
+# Start 2019-04-10 | Starttime 18:27:06 # End 2019-04-10 | Endtime 18:29:56
+# Start 2019-04-10 | Starttime 18:56:37
++178 seconds used
+# End 2019-04-10 | Endtime 18:59:35
+# Start 2019-04-11 | Starttime 16:13:55
++98 seconds used
+# End 2019-04-11 | Endtime 16:15:33
+# Start 2019-04-12 | Starttime 17:25:29
++110 seconds used
+# End 2019-04-12 | Endtime 17:27:19
+# Start 2019-04-12 | Starttime 17:37:09
++43 seconds used
+# End 2019-04-12 | Endtime 17:37:52
+# Start 2019-04-12 | Starttime 18:09:26
++8 seconds used
+# End 2019-04-12 | Endtime 18:09:34
+# Start 2019-04-12 | Starttime 18:12:46
++7 seconds used
+# End 2019-04-12 | Endtime 18:12:53
+# Start 2019-04-12 | Starttime 18:13:00
++5 seconds used
+# End 2019-04-12 | Endtime 18:13:05
+# Start 2019-04-12 | Starttime 18:13:28
++2 seconds used
+# End 2019-04-12 | Endtime 18:13:30
+# Start 2019-04-12 | Starttime 18:15:56
++3 seconds used
+# End 2019-04-12 | Endtime 18:15:59
+# Start 2019-04-12 | Starttime 18:16:46
++4 seconds used
+# End 2019-04-12 | Endtime 18:16:50
+# Start 2019-04-12 | Starttime 18:19:42
++0 seconds used
+# End 2019-04-12 | Endtime 18:19:42
+# Start 2019-04-12 | Starttime 18:19:45
++0 seconds used
+# End 2019-04-12 | Endtime 18:19:45
+# Start 2019-04-12 | Starttime 18:19:46
++0 seconds used
+# End 2019-04-12 | Endtime 18:19:46
+# Start 2019-04-12 | Starttime 18:19:47
++0 seconds used
+# End 2019-04-12 | Endtime 18:19:47
+# Start 2019-04-12 | Starttime 18:19:48
++0 seconds used
+# End 2019-04-12 | Endtime 18:19:48
+# Start 2019-04-12 | Starttime 18:28:47
++2 seconds used
+# End 2019-04-12 | Endtime 18:28:49
+# Start 2019-04-12 | Starttime 18:29:01
++21 seconds used
+# End 2019-04-12 | Endtime 18:29:22
+# Start 2019-04-12 | Starttime 18:30:07
++1 seconds used
+# End 2019-04-12 | Endtime 18:30:08
+# Start 2019-04-12 | Starttime 18:30:13
++0 seconds used
+# End 2019-04-12 | Endtime 18:30:13
+# Start 2019-04-12 | Starttime 18:30:21
++1 seconds used
+# End 2019-04-12 | Endtime 18:30:22
+# Start 2019-04-12 | Starttime 18:30:40
++0 seconds used
+# End 2019-04-12 | Endtime 18:30:40
+# Start 2019-04-12 | Starttime 18:31:43
++1 seconds used
+# End 2019-04-12 | Endtime 18:31:44
+# Start 2019-04-12 | Starttime 19:40:37
++14 seconds used
+# End 2019-04-12 | Endtime 19:40:51
+# Start 2019-04-12 | Starttime 19:40:53
++3 seconds used
+# End 2019-04-12 | Endtime 19:40:56
+# Start 2019-04-12 | Starttime 19:41:00
++14 seconds used
+# End 2019-04-12 | Endtime 19:41:14
+# Start 2019-04-12 | Starttime 19:42:01
++1 seconds used
+# End 2019-04-12 | Endtime 19:42:02
+# Start 2019-04-12 | Starttime 19:50:21
++1 seconds used
+# End 2019-04-12 | Endtime 19:50:22
+# Start 2019-04-12 | Starttime 19:52:54
++1 seconds used
+# End 2019-04-12 | Endtime 19:52:55
+# Start 2019-04-12 | Starttime 19:52:59
++3 seconds used
+# End 2019-04-12 | Endtime 19:53:02
+# Start 2019-04-12 | Starttime 19:53:09
++0 seconds used
+# End 2019-04-12 | Endtime 19:53:09
+# Start 2019-04-12 | Starttime 19:54:55
++18 seconds used
+# End 2019-04-12 | Endtime 19:55:13
+# Start 2019-04-12 | Starttime 19:55:20
++23 seconds used
+# End 2019-04-12 | Endtime 19:55:43
+# Start 2019-04-12 | Starttime 19:56:05
++13 seconds used
+# End 2019-04-12 | Endtime 19:56:18
+# Start 2019-04-12 | Starttime 19:56:21
++7 seconds used
+# End 2019-04-12 | Endtime 19:56:28
+# Start 2019-04-12 | Starttime 19:57:49
++28 seconds used
+# End 2019-04-12 | Endtime 19:58:17
+# Start 2019-04-12 | Starttime 20:38:42
++2 seconds used
+# End 2019-04-12 | Endtime 20:38:44
+# Start 2019-04-12 | Starttime 20:38:45
++1 seconds used
+# End 2019-04-12 | Endtime 20:38:46
+# Start 2019-04-13 | Starttime 13:57:02
++63 seconds used
+# End 2019-04-13 | Endtime 13:58:05
+# Start 2019-04-13 | Starttime 15:33:20
++2 seconds used
+# End 2019-04-13 | Endtime 15:33:22
+# Start 2019-04-13 | Starttime 15:38:58
++3 seconds used
+# End 2019-04-13 | Endtime 15:39:01
+# Start 2019-04-13 | Starttime 15:39:02
++10 seconds used
+# End 2019-04-13 | Endtime 15:39:12
+# Start 2019-04-13 | Starttime 15:39:51
++14 seconds used
+# End 2019-04-13 | Endtime 15:40:05
+# Start 2019-04-13 | Starttime 15:40:43
++9 seconds used
+# End 2019-04-13 | Endtime 15:40:52
+# Start 2019-04-13 | Starttime 15:41:15
++26 seconds used
+# End 2019-04-13 | Endtime 15:41:41
+# Start 2019-04-13 | Starttime 15:44:01
++6 seconds used
+# End 2019-04-13 | Endtime 15:44:07
+# Start 2019-04-13 | Starttime 15:44:11
++1 seconds used
+# End 2019-04-13 | Endtime 15:44:12
+# Start 2019-04-13 | Starttime 15:44:39
++13 seconds used
+# End 2019-04-13 | Endtime 15:44:52
+# Start 2019-04-13 | Starttime 15:45:33
++12 seconds used
+# End 2019-04-13 | Endtime 15:45:45
+# Start 2019-04-13 | Starttime 15:45:49
++2 seconds used
+# End 2019-04-13 | Endtime 15:45:51
+# Start 2019-04-13 | Starttime 15:46:01
++4 seconds used
+# End 2019-04-13 | Endtime 15:46:05
+# Start 2019-04-13 | Starttime 15:46:10
++3 seconds used
+# End 2019-04-13 | Endtime 15:46:13
+# Start 2019-04-13 | Starttime 15:46:26
++13 seconds used
+# End 2019-04-13 | Endtime 15:46:39
+# Start 2019-04-13 | Starttime 15:46:41
++37 seconds used
+# End 2019-04-13 | Endtime 15:47:18
+# Start 2019-04-13 | Starttime 15:47:51
++1 seconds used
+# End 2019-04-13 | Endtime 15:47:52
+# Start 2019-04-13 | Starttime 15:47:58
++4 seconds used
+# End 2019-04-13 | Endtime 15:48:02
+# Start 2019-04-13 | Starttime 15:48:09
++1 seconds used
+# End 2019-04-13 | Endtime 15:48:10
+# Start 2019-04-13 | Starttime 15:48:13
++140 seconds used
+# End 2019-04-13 | Endtime 15:50:33
+# Start 2019-04-13 | Starttime 15:51:06
++195 seconds used
+# End 2019-04-13 | Endtime 15:54:21
+# Start 2019-04-14 | Starttime 17:22:27
++1 seconds used
+# End 2019-04-14 | Endtime 17:22:28
+# Start 2019-04-14 | Starttime 17:24:24
++207 seconds used
+# End 2019-04-14 | Endtime 17:27:51
+# Start 2019-04-14 | Starttime 17:27:53
++2 seconds used
+# End 2019-04-14 | Endtime 17:27:55
+# Start 2019-04-14 | Starttime 17:28:19
++113 seconds used
+# End 2019-04-14 | Endtime 17:30:12
+# Start 2019-04-14 | Starttime 17:30:43
++3 seconds used
+# End 2019-04-14 | Endtime 17:30:46
+# Start 2019-04-14 | Starttime 17:31:06
++83 seconds used
+# End 2019-04-14 | Endtime 17:32:29
+# Start 2019-04-14 | Starttime 17:33:02
++71 seconds used
+# End 2019-04-14 | Endtime 17:34:13
+# Start 2019-04-14 | Starttime 17:34:57
++13 seconds used
+# End 2019-04-14 | Endtime 17:35:10
+# Start 2019-04-14 | Starttime 17:39:19
++83 seconds used
+# End 2019-04-14 | Endtime 17:40:42
+# Start 2019-04-14 | Starttime 17:41:25
++2 seconds used
+# End 2019-04-14 | Endtime 17:41:27
+# Start 2019-04-14 | Starttime 18:03:22
++9 seconds used
+# End 2019-04-14 | Endtime 18:03:31
+# Start 2019-04-14 | Starttime 18:03:35
++2 seconds used
+# End 2019-04-14 | Endtime 18:03:37
+# Start 2019-04-14 | Starttime 18:04:27
++3 seconds used
+# End 2019-04-14 | Endtime 18:04:30
+# Start 2019-04-14 | Starttime 18:04:35
++5 seconds used
+# End 2019-04-14 | Endtime 18:04:40
+# Start 2019-04-14 | Starttime 18:05:46
++5 seconds used
+# End 2019-04-14 | Endtime 18:05:51
+# Start 2019-04-14 | Starttime 18:07:33
++57 seconds used
+# End 2019-04-14 | Endtime 18:08:30
+# Start 2019-04-14 | Starttime 18:11:22
++10 seconds used
+# End 2019-04-14 | Endtime 18:11:32
+# Start 2019-04-14 | Starttime 18:13:35
++49 seconds used
+# End 2019-04-14 | Endtime 18:14:24
+# Start 2019-04-14 | Starttime 18:15:28
++42 seconds used
+# End 2019-04-14 | Endtime 18:16:10
+# Start 2019-04-14 | Starttime 18:53:54
++1 seconds used
+# End 2019-04-14 | Endtime 18:53:55
+# Start 2019-04-14 | Starttime 18:56:16
++89 seconds used
+# End 2019-04-14 | Endtime 18:57:45

@@ -2,32 +2,41 @@
 #include <stdio.h>
 #include <vector>
 
+#define MAPSIZE 8000
+
 namespace dh{
+	template <typename T>
 	struct Vector {
-		float x;
-		float y;
-		float z;
+		T x;
+		T y;
+		T z;
 	};
 	void analyzePositions(void)
 	{
 		FILE* fp = nullptr;
-		fopen_s(&fp, "enemy_positions_log.dat", "rb");
+		fopen_s(&fp, "00_t.dat", "rb");
 		if (fp == nullptr) return;
 
-		std::vector<dh::Vector> positions;
-		dh::Vector pos;
-		do
-		{
+		std::vector<dh::Vector<short> > positions;
+		dh::Vector<short> pos;
+		do {
 			if (std::fread((void*)& pos, sizeof(pos), 1, fp) == 0U) break;
 			positions.push_back(pos);
 			std::cout << pos.x << ", " << pos.y << ", " << pos.z << std::endl;
 		} while (pos.x != EOF);
 
-		// divide map into 50x50 rectangles
-		size_t division[60][60] = { 0 };
+		// divide map into 100x100 rectangles
+		constexpr int rectSize = 80;
+		constexpr int nRects = MAPSIZE/rectSize;
+		size_t* division[nRects];
+		for (size_t i = 0U; i < nRects; ++i) division[i] = new size_t[nRects];
+
 		for (size_t i = 0U; i < positions.size(); ++i) {
-			division[][]
+			const int x = ((positions[i].x + MAPSIZE/2) - (positions[i].x + MAPSIZE/2) % rectSize) / rectSize;
+			const int y = ((positions[i].y + MAPSIZE/2) - (positions[i].y + MAPSIZE/2) % rectSize) / rectSize;
+			++division[x][y];
 		}
+		for (size_t i = 0U; i < nRects; ++i) delete[] division[i];
 
 		fclose(fp);
 	}
